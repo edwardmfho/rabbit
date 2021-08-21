@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## The Rabbit Toolbox
 
-You can use the [editor on GitHub](https://github.com/edwardmfho/rabbit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During this difficult time of COVID, we still need to care for our fluffy friends. Here's a list of vet and pet shops in New South Wales, Australia. Feel free to email me to add information for vet information - and also if you are tech-savvy, [raise an issue on GitHub.](https://github.com/edwardmfho/rabbit/issues)
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
